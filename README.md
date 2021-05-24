@@ -38,21 +38,21 @@ I'm [Javier Leone](https://javierleone.github.io/), a software developer and com
   <code><img height="40" src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/cf/Angular_full_color_logo.svg/250px-Angular_full_color_logo.svg.png"></code>
   <code><img height="40" src="https://www.programandoamedianoche.com/wp-content/uploads/2008/09/asp.net_.logo_.png"></code>
   <code><img height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mysql/mysql.png"></code> 
-  <code><img height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png"></code>  
-   
+  <code><img height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png"></code>   
   </div>
+  
   </p>
 
  ---
  
-<p align="left">
-  <i>Want to talk with me? Find me on the web...</i>
+<p align="center">
+  <i align = "left">Want to talk with me? Find me on the web...</i>
   
-  <div align="center">
+  
    [![Website Badge](https://img.shields.io/badge/-javierleone.github.io-47CCCC?style=flat&logo=Google-Chrome&logoColor=white&link=https://javierleone.github.io/)](https://javierleone.github.io/)
    [![Linkedin Badge](https://img.shields.io/badge/-Javier%20Leone-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/javier-leone-4361301a8/)](https://www.linkedin.com/in/javier-leone-4361301a8/)
    [![Gmail Badge](https://img.shields.io/badge/-Javier%20Leone-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:javieraleonejal@gmail.com)](mailto:javieraleonejal@gmail.com)
- </div>
+ 
  
   <p align="left">
     Show ❤️ by starring repositories you like! 
