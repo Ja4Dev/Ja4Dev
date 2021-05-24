@@ -8,9 +8,9 @@ I'm [Javier Leone](https://javierleone.github.io/), a software developer and com
 
 - <div>
     <img width="150" height="150" align='left' src="https://raw.githubusercontent.com/Ja4Dev/Ja4Dev/master/images/starksolution.jpg" >
-    ... as a <strong>Full Stack Developer</strong> at Stark Solution S.R.L. where I have been worked in the development of the medic's sallaries management portal, EvWeb, using the ASP.NET MVC Framework.
+    ... as a <strong>Full Stack Developer</strong> at Stark Solution S.R.L. where I have been worked in the development and maintenance of the medic's salaries management portal, EvWeb, using the ASP.NET MVC Framework with C# for the back end, SQL Server as the DBMS, and AJAX for a rich user experience.
     <br />
-    <strong margin-up="65">View: </strong> <a href="https://evweb.com.ar">evweb.com.ar</a> 
+    <strong>View: </strong> <a href="https://evweb.com.ar">evweb.com.ar</a> 
     <br /> 
     <br /> 
     <br />
