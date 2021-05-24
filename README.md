@@ -1,4 +1,4 @@
-<h4> Hey there! <img src="https://raw.githubusercontent.com/Ja4Dev/Ja4Dev/master/gifs/wave.gif" width="30px"></h4>
+<h4> Hey there! <img src="https://raw.githubusercontent.com/Ja4Dev/Ja4Dev/three/main/gifs/wave.gif" width="30px"></h4>
 
 I'm [Javier Leone](https://javierleone.github.io/), a software developer and computer science student from Buenos Aires, Argentina.
 
@@ -7,7 +7,7 @@ I'm [Javier Leone](https://javierleone.github.io/), a software developer and com
 **Currently I am working ...**
 
 - <div>
-    <img width="250" height="100" align='left' src="https://raw.githubusercontent.com/Ja4Dev/Ja4Dev/master/images/starksolution.jpg" >
+    <img width="250" height="100" align='left' src="https://raw.githubusercontent.com/Ja4Dev/Ja4Dev/three/main/images/starksolution.jpg" >
     ... as a <strong>Full Stack Developer</strong> at Stark Solution S.R.L. where I have been worked in the development of the medic's sallaries management portal, EvWeb, using the ASP.NET MVC Framework.
     <br />
     <strong>View: </strong> <a href="https://evweb.com.ar">evweb.com.ar</a> 
