@@ -7,7 +7,7 @@ I'm [Javier Leone](https://javierleone.github.io/), a software developer and com
 **Currently I am working ...**
 
 - <div>
-    <img width="200" height="200" align='left' src="https://raw.githubusercontent.com/Ja4Dev/Ja4Dev/master/images/starksolution.jpg" >
+    <img width="150" height="150" align='left' src="https://raw.githubusercontent.com/Ja4Dev/Ja4Dev/master/images/starksolution.jpg" >
     ... as a <strong>Full Stack Developer</strong> at Stark Solution S.R.L. where I have been worked in the development of the medic's sallaries management portal, EvWeb, using the ASP.NET MVC Framework.
     <br />
     <strong>View: </strong> <a href="https://evweb.com.ar">evweb.com.ar</a> 
@@ -43,9 +43,9 @@ I'm [Javier Leone](https://javierleone.github.io/), a software developer and com
 <p align="center">
   <i>Want to talk with me? Find me on the web...</i>
   
-   [![Website Badge](https://img.shields.io/badge/-javierleone.github.io-47CCCC?style=flat&logo=Google-Chrome&logoColor=white&link=https://javierleone.github.io/)] 
-   [![Linkedin Badge](https://img.shields.io/badge/-Javier%20Leone-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/javier-leone-4361301a8/)]
-   [![Gmail Badge](https://img.shields.io/badge/-Javier%20Leone-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:javieraleonejal@gmail.com)]
+   ![Website Badge](https://img.shields.io/badge/-javierleone.github.io-47CCCC?style=flat&logo=Google-Chrome&logoColor=white&link=https://javierleone.github.io/)
+   ![Linkedin Badge](https://img.shields.io/badge/-Javier%20Leone-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/javier-leone-4361301a8/)
+   ![Gmail Badge](https://img.shields.io/badge/-Javier%20Leone-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:javieraleonejal@gmail.com)
 
   <p align="center">
     Show ❤️ by starring repositories you like! 
