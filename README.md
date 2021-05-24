@@ -54,7 +54,7 @@ I'm [Javier Leone](https://javierleone.github.io/), a software developer and com
    [![Gmail Badge](https://img.shields.io/badge/-Javier%20Leone-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:javieraleonejal@gmail.com)](mailto:javieraleonejal@gmail.com)
  
  
-  <p align="left">
+  <p align="center">
     Show ❤️ by starring repositories you like! 
   </p>
 </p>
