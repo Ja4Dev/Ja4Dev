@@ -1,6 +1,6 @@
 <h4> Hi there! <img src="https://raw.githubusercontent.com/Ja4Dev/Ja4Dev/master/gifs/wave.gif" width="30px"></h4>
 
-I'm [Javier Leone](https://javierleone.github.io/), a software developer and computer science student from Buenos Aires, Argentina. 
+I'm [Javier Leone](https://ja4dev.github.io/), a software developer and computer science student from Buenos Aires, Argentina. 
 
  ---
  
