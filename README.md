@@ -4,7 +4,7 @@ I'm [Javier Leone](https://ja4dev.github.io/), a software developer and computer
 
  ---
  
-**I have worked in...**
+**Currently I am working ...**
 
 - <div>
     <img width="150" height="150" align='left' src="https://raw.githubusercontent.com/Ja4Dev/Ja4Dev/master/images/starksolution.jpg" >
