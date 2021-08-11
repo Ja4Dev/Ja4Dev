@@ -7,10 +7,10 @@ I'm [Javier Leone](https://ja4dev.github.io/), a software developer and computer
 **Currently I am working ...**
 
 - <div>
-    <img width="150" height="150" align='left' src="https://raw.githubusercontent.com/Ja4Dev/Ja4Dev/master/images/starksolution.jpg" >
-    ... as a <strong>Full Stack Developer</strong> at Stark Solution S.R.L. where I have been worked in the development and maintenance of the medic's salaries management portal, EvWeb, using the ASP.NET MVC Framework with C# for the back end, SQL Server as the DBMS, and AJAX for a rich user experience.
+    <img width="150" height="150" align='left' src="https://raw.githubusercontent.com/Ja4Dev/Ja4Dev/master/images/Despegar.jpg" >
+    ... as a <strong>Software Developer</strong> at Despegar.com S.A. where I have started working in August of 2021. I have no much to tell you about that, but I promise start     to do it soon ;)
     <br />
-    <strong>View: </strong> <a href="https://evweb.com.ar">evweb.com.ar</a> 
+    <strong>View: </strong> <a href="https://despegar.com.ar">Despegar.com.ar</a> 
     <br /> 
     <br /> 
     <br />
