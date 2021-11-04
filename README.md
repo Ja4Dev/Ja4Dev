@@ -25,12 +25,11 @@ I'm [Javier Leone](https://ja4dev.github.io/), a software developer and computer
 <p align="left">
 
   <div align="center">
-  <code><img height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/c/c.png"></code>
   <code><img height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/cpp/cpp.png"></code>
   <code><img height="40" src="https://www.fixedbuffer.com/wp-content/uploads/2019/06/reflexion.png"></code>
   <code><img height="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original-wordmark.svg"></code> 
   <code><img height="40" src="https://cdn.freebiesupply.com/logos/large/2x/kotlin-logo-png-transparent.png"></code>
-  <code><img height="40" src="http://assets.stickpng.com/images/5848152fcef1014c0b5e4967.png"></code> 
+  <code><img height="40" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQNvySLOHXf8Wt50qEPBOrwzfp3zzvY-IzMyw&usqp=CAU"></code> 
   <code><img height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png"></code> 
   <code><img height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png"></code>
   <code><img height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"></code> 
