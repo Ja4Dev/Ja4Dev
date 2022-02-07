@@ -8,7 +8,7 @@ I'm [Javier Leone](https://ja4dev.github.io/), a software developer and computer
 
 - <div>
     <img width="150" height="150" align='left' src="https://raw.githubusercontent.com/Ja4Dev/Ja4Dev/master/images/despegar.png" >
-    ... as a <strong>Mobile Software Developer</strong> at Despegar.com S.A. where I have started working in August of 2021. I have no much to tell you about that, but I promise start     to do it soon ;)
+    ... as a <strong>Mobile Software Developer</strong> at Despegar.com S.A. where I have started working in August of 2021, and where I'm working in the development and maintenance of the Android application for their travels sale platform.
     <br />
     <strong>View: </strong> <a href="https://despegar.com.ar">despegar.com.ar</a> 
     <br /> 
