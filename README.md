@@ -7,10 +7,10 @@ I'm [Javier Leone](https://ja4dev.github.io/), a software developer and computer
 **Currently I am working ...**
 
 - <div>
-    <img width="150" height="150" align='left' src="https://raw.githubusercontent.com/Ja4Dev/Ja4Dev/master/images/despegar.png" >
-    ... as a <strong>Mobile Software Developer</strong> at Despegar.com S.A. where I have started working in August of 2021, and where I'm working in the development and maintenance of the Android application for their travel sales platform.
+    <img width="150" height="150" align='left' src="https://media.licdn.com/dms/image/D4D0BAQE7di9aVSuD4Q/company-logo_200_200/0/1685366285296?e=1712188800&v=beta&t=aTEJOna_Yw0X3BwdIxBTeuUxYQD9HiOI98vWDLbdEUc" >
+    ... as a <strong>Full Stack Software Developer</strong> at Exgadet S.A. where I have started working in December of 2023, and where I'm working in the development and maintenance of various projects like an internal Android application for the gas fitters, administration desktop applications and the company web application.
     <br />
-    <strong>View: </strong> <a href="https://despegar.com.ar">despegar.com.ar</a> 
+    <strong>View: </strong> <a href="https://exgadetsa.com.ar/">Exgadet S.A.</a> 
     <br /> 
     <br /> 
     <br />
