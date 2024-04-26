@@ -7,10 +7,22 @@ I'm [Javier Leone](https://ja4dev.github.io/), a software developer and computer
 **Currently I am working ...**
 
 - <div>
-    <img width="150" height="150" align='left' src="https://media.licdn.com/dms/image/D4D0BAQE7di9aVSuD4Q/company-logo_200_200/0/1685366285296?e=1712188800&v=beta&t=aTEJOna_Yw0X3BwdIxBTeuUxYQD9HiOI98vWDLbdEUc" >
-    ... as a <strong>Full Stack Software Developer</strong> at Exgadet S.A. where I have started working in December of 2023, and where I'm working in the development and maintenance of various projects like an internal Android application for the gas fitters, administrative desktop applications and the company website.
+    <img width="150" height="150" align='left' src="https://media.licdn.com/dms/image/D4E0BAQGC6cBESILt8Q/company-logo_200_200/0/1700156816476/findr_app_logo?e=2147483647&v=beta&t=bT4tAaVLLd0viiw40El506Hwz0tMIxgVR9lrgr53Y6k">
+    ... as a <strong>Software Engineer</strong> at Findr where I have started working in April 2024, and where I'm working in the software development of an ambitious project in the world of recruitment, with an application that combines the practicality of a swipes based system, the collection of precise data and the agility of AI information processing.
     <br />
-    <strong>View: </strong> <a href="https://exgadetsa.com.ar/">Exgadet S.A.</a> 
+    <strong>View: </strong> <a href="https://findrapp.es/">Findr</a> 
+    <br /> 
+    <br /> 
+    <br />
+    <br />
+    <br />
+  </div>  
+
+- <div>
+    <img width="150" height="150" align='left' src="https://media.licdn.com/dms/image/C4D0BAQGsen1XGyqj_w/company-logo_200_200/0/1676401445405?e=1722470400&v=beta&t=BaiqWUGAPoii_3e7ObuVC00afdoVzd0XfJfaI58uOh4">
+    ... as a <strong>Full Stack developer</strong> at DTC Vikings where I have started working in February 2024, and where I'm working in the development of an interesting web application to change the way we relate with our loved ones and create stronger bonds with them by asking great questions.
+    <br />
+    <strong>View: </strong> <a href="https://www.tryoursaga.com/">Our Saga</a> 
     <br /> 
     <br /> 
     <br />
