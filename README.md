@@ -18,18 +18,6 @@ I'm [Javier Leone](https://ja4dev.github.io/), a software developer and computer
     <br />
   </div>  
 
-- <div>
-    <img width="150" height="150" align='left' src="https://media.licdn.com/dms/image/C4D0BAQGsen1XGyqj_w/company-logo_200_200/0/1676401445405?e=1722470400&v=beta&t=BaiqWUGAPoii_3e7ObuVC00afdoVzd0XfJfaI58uOh4">
-    ... as a <strong>Full Stack developer</strong> at DTC Vikings where I have started working in February 2024, and where I'm working in the development of an interesting web application to change the way we relate with our loved ones and create stronger bonds with them by asking great questions.
-    <br />
-    <strong>View: </strong> <a href="https://www.tryoursaga.com/">Our Saga</a> 
-    <br /> 
-    <br /> 
-    <br />
-    <br />
-    <br />
-  </div>  
-
  ---
  
 **Some Languages and Tools:**
