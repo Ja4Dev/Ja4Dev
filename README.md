@@ -8,7 +8,7 @@ I'm [Javier Leone](https://ja4dev.github.io/), a software developer and computer
 
 - <div>
     <img width="150" height="150" align='left' src="https://media.licdn.com/dms/image/v2/D4E0BAQGC6cBESILt8Q/company-logo_200_200/company-logo_200_200/0/1700156816476/findr_app_logo?e=1781136000&v=beta&t=PNQWC4rrSSuTGxE7saCTKwCDWTUKYZ_H_w65X-sg3fg"><p>
-     ... as a <strong>Software Engineer</strong> at Findr where I have started working in April 2024, and where I'm working in the software development of an ambitious project in the world of recruitment, with an application that combines the practicality of a swipes based system, the collection of precise data and the agility of AI information processing.
+     ... as a <strong>Senior Software Back-end Engineer</strong> at Findr where I have started working in April 2024, and where I'm working in the software development of an ambitious project in the world of recruitment, with an application that combines the practicality of a swipes based system, the collection of precise data and the agility of AI information processing.
     <br />
     <strong>View: </strong> <a href="https://findrapp.es/">Findr</a> 
     <br /> 
